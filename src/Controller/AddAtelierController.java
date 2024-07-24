@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.ResourceBundle;
 
 import Model.*;
-import View.*;
+
 
 public class AddAtelierController implements Initializable {
 
@@ -77,7 +77,7 @@ public class AddAtelierController implements Initializable {
         String atelierDate = date.getValue().toString();
         String atelierHeure = heure.getText();
         String atelierThematique = thematique.getText();
-        String atelierType = typeAtelier.getValue();
+        //String atelierType = typeAtelier.getValue();
 
         ArrayList<Integer> atelierNumDossierList = new ArrayList<>();
 

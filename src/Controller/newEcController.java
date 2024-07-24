@@ -1,6 +1,5 @@
 package Controller;
 import Model.*;
-import View.*;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -8,7 +7,6 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import Controller.creerBoController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

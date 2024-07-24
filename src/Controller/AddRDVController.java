@@ -10,8 +10,6 @@ import javafx.scene.control.Button;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-import Model.*;
-import View.*;
 
 public class AddRDVController {
 

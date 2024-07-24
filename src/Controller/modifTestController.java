@@ -1,6 +1,5 @@
 package Controller;
 import Model.*;
-import View.*;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -10,7 +9,6 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 
-import Controller.AgendaController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

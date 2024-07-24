@@ -1,10 +1,8 @@
 package Controller;
 import Model.*;
-import View.*;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import Controller.creerBoController;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;

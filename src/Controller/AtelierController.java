@@ -1,6 +1,6 @@
 package Controller;
 import Model.*;
-import View.*;
+
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.ResourceBundle;
 import java.util.TreeMap;
 
-import Controller.creerBoController;
+
 
 public class AtelierController implements Initializable {
 

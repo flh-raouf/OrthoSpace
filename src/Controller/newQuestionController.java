@@ -1,11 +1,9 @@
 package Controller;
 import Model.*;
-import View.*;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Optional;
 
-import Controller.AgendaController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

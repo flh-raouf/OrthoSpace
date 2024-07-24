@@ -1,11 +1,9 @@
 package Controller;
 import Model.*;
-import View.*;
 
 import java.io.IOException;
 import java.util.ArrayList;
 
-import Controller.afficherCompteRenduController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

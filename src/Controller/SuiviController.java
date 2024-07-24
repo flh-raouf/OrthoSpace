@@ -1,6 +1,5 @@
 package Controller;
 import Model.*;
-import View.*;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -17,7 +16,6 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import java.util.TreeMap;
 
-import Controller.creerBoController;
 
 public class SuiviController implements Initializable{
 

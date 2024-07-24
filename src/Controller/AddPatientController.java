@@ -17,7 +17,7 @@ import javafx.scene.Node;
 import javafx.stage.Stage;
 
 import Model.*;
-import View.*;
+
 
 public class AddPatientController implements Initializable{
 

@@ -1,6 +1,6 @@
 package Controller;
 import Model.*;
-import View.*;
+
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
@@ -24,7 +24,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.TextStyle;
 import java.util.ArrayList;
-import java.util.List;
+
 import java.util.Locale;
 
 import javafx.fxml.Initializable;
@@ -33,8 +33,6 @@ import java.util.ResourceBundle;
 
 import Model.Agenda;
 import Model.Orthophoniste;
-import javafx.animation.KeyFrame;
-import javafx.animation.Timeline;
 import javafx.util.Duration;
 
 public class AgendaController implements Initializable{
